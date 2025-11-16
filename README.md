@@ -1,1 +1,1 @@
-# Minor-Practical-III
+# Minor-Practical
